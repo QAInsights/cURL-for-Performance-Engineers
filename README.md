@@ -9,3 +9,9 @@ In Windows PowerShell:
 
 ```curl -version``` will fail. Type ```curl.exe --version``` for valid output.
 
+```curl example.com```
+
+```curl -v example.com```
+
+```
+
