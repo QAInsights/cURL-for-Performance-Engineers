@@ -15,7 +15,7 @@ In Windows PowerShell:
 
 ```curl --trace output https://example.com```
 
-```curl --trace-time https://example.com```
+```curl --trace - --trace-time example.com```
 
 ```curl --trace-ascii ascii_output https://example.com```
 
